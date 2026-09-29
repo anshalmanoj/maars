@@ -1,0 +1,6 @@
+{
+  "name": "MAARS — Premium Footwear Store",
+  "description": "Authorized retailer of premier footwear from Nike, Adidas, Puma, and limited-edition releases. Curated athletic and lifestyle sneakers with worldwide express shipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
